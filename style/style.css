@@ -58,6 +58,7 @@ header > p { /*PARÁGRAFOS CABEÇALHO*/
     max-width: 600px;
     padding: 10px, 10px;
     margin: auto;
+    padding-bottom: 5px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
 
 }
